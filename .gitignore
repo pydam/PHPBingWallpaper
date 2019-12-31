@@ -33,3 +33,13 @@ inc/
 /MANIFEST.bak
 /pm_to_blib
 /*.zip
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Docs
+*.pdf
+*.doc
+
